@@ -16,8 +16,8 @@ Hi! My name is **Aleena Amir**, and this is my GitHub profile. Here, you will fi
 - **Resources & Guides:** Notes, tutorials, and useful code snippets.
 
 ## 🛠 Technologies & Tools
-**Programming Languages:** JavaScript, Python, C, Java, SQL
-**Development Tools:** VSS (Visual Studio), IntelliJ IDEA, Logisim, Virtual Machines (VM), GitHub
+- **Programming Languages:** JavaScript, Python, C, Java, SQL
+- **Development Tools:** VSS (Visual Studio), IntelliJ IDEA, Logisim, Virtual Machines (VM), GitHub
 
 ## 💡 Experience & Learnings
 - 🏆 Participated in freecodecamp to earn certificates. 
@@ -27,6 +27,6 @@ Hi! My name is **Aleena Amir**, and this is my GitHub profile. Here, you will fi
 ## 📫 Contact
 Want to get in touch?
 - ✉️ [aaamir@kth.se]
-- 💼 [Linkedin](https://www.linkedin.com/in/aleena-a-549b78284?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app)
+- 💼 [Linkedin](https://www.linkedin.com/in/aleena-a-549b78284?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BmUgHkbKVR%2BSBEwLLMOkoOA%3D%3D)
 
 Thank you for visiting my profile! 🤍
