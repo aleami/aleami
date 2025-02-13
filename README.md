@@ -27,6 +27,5 @@ Hi! My name is **Aleena Amir**, and this is my GitHub profile. Here, you will fi
 ## 📫 Contact
 Want to get in touch?
 - ✉️ [aaamir@kth.se]
-- 💼 [Linkedin](https://www.linkedin.com/in/aleena-a-549b78284?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BmUgHkbKVR%2BSBEwLLMOkoOA%3D%3D)
 
 Thank you for visiting my profile! 🤍
