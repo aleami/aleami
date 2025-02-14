@@ -26,6 +26,6 @@ Hi! My name is **Aleena**, and this is my GitHub profile. Here, you will find my
 
 ## 📫 Contact
 Want to get in touch?
-- ✉️ [aaamir@kth.se]
+- ✉️ aaamir@kth.se
 
 Thank you for visiting my profile! 🤍
