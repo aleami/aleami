@@ -1,6 +1,6 @@
 ## 👋 Welcome to My GitHub Profile!
 
-Hi! My name is **Aleena Amir**, and this is my GitHub profile. Here, you will find my projects related to programming and development.
+Hi! My name is **Aleena**, and this is my GitHub profile. Here, you will find my projects related to programming and development.
 
 ## 📌 About Me
 - 🎓 Studying Master of Science in _Information Technology_ at **KTH Royal Institute of Technology**, currently in my second year working on my Bachelor's degree.
