@@ -17,13 +17,7 @@ Hi! My name is **Aleena**, and this is my GitHub profile. Here, you will find my
 
 ## 🛠 Technologies & Tools
 - **Programming Languages:** JavaScript, Python, C, Java, SQL
-- **Some Development Tools:**
-  - _VSS (Visual Studio)_
-  - _IntelliJ IDEA_
-  - _Logisim_
-  - _Virtual Machines (VM)_
-  - _Astah_
-  - _GitHub_
+- **Some Development Tools:** _VSS (Visual Studio)_ , _IntelliJ IDEA_ , _Logisim_ , _Virtual Machines (VM)_ & _Astah_ .
 
 ## 💡 Experience & Learnings
 - 🏆 Participated in freecodecamp to earn certificates. 
