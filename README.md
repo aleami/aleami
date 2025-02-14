@@ -24,8 +24,7 @@ Hi! My name is **Aleena**, and this is my GitHub profile. Here, you will find my
 - 🏗️ Built my own projects from idea to finished product.
 - 🌐 Explored various technologies to solve real-world problems.
 
-## 📫 Contact
-Want to get in touch?
-- ✉️ aaamir@kth.se
+## 📫 Contact:
+✉️ aaamir@kth.se
 
 Thank you for visiting my profile! 🤍
