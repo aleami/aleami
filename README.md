@@ -3,7 +3,7 @@
 Hi! My name is **Aleena**, and this is my GitHub profile. Here, you will find my projects related to programming and development.
 
 ## 📌 About Me
-- 🎓 **Studying:**  Master of Science in _Information Technology_ at **KTH Royal Institute of Technology**, currently in my second year working on my Bachelor's degree.
+- 🎓 **Studying:**  Master of Science in _Information Technology_ at **KTH Royal Institute of Technology**, currently in my third year working on my Bachelor's degree.
 - 💻 **Interested in:** Web development, Hardware and software engineering.
 - 🚀 **Currently learning:** diffrent programming languages, Hardware security and Cloud technologies.
 - 🎯 **Goals:** Become a well-rounded cybersecurity engineer and start my own tech projects.
